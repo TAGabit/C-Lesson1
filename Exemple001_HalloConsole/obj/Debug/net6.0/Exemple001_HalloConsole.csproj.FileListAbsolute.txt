@@ -1,0 +1,15 @@
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\bin\Debug\net6.0\Exemple001_HalloConsole.exe
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\bin\Debug\net6.0\Exemple001_HalloConsole.deps.json
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\bin\Debug\net6.0\Exemple001_HalloConsole.runtimeconfig.json
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\bin\Debug\net6.0\Exemple001_HalloConsole.dll
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\bin\Debug\net6.0\Exemple001_HalloConsole.pdb
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.csproj.AssemblyReference.cache
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.AssemblyInfoInputs.cache
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.AssemblyInfo.cs
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.csproj.CoreCompileInputs.cache
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.dll
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\refint\Exemple001_HalloConsole.dll
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.pdb
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\Exemple001_HalloConsole.genruntimeconfig.cache
+C:\Users\AKB011912\Desktop\Exemples\Exemple001_HalloConsole\obj\Debug\net6.0\ref\Exemple001_HalloConsole.dll
